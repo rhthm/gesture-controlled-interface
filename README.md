@@ -37,7 +37,7 @@ A 16x2 I2C LCD displays the current mode and active gesture in real time.
 | Input | Active Infrared (IR) Sensor |
 | Display | 16x2 LCD with I2C backpack (0x27) |
 
-### Wiring
+## Circuit Diagram
 
 ![Circuit Diagram](assets/circuit_diagram.png)
 
